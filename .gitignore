@@ -1,4 +1,7 @@
 Deep-Dearning-With-PyTorch-Full-Course/data
+Deep-Dearning-With-PyTorch-Full-Course/wandb
+del-wandb-testing/wandb
+pytorch_quickstart_tutorial/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
