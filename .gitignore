@@ -3,6 +3,9 @@ Deep-Dearning-With-PyTorch-Full-Course/wandb
 del-wandb-testing/wandb
 pytorch_quickstart_tutorial/data
 
+del-Minichallenge-1/data
+del-Minichallenge-2/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
