@@ -11,6 +11,12 @@ PyTorch/Deep-Dearning-With-PyTorch-Full-Course/wandb
 wandb/data
 wandb/wandb
 
+# PyTorch Lightning
+fhnw-del-Deep-Learning/PyTorch_Lightning/lightning_logs
+fhnw-del-Deep-Learning/PyTorch_Lightning/wandb
+fhnw-del-Deep-Learning/PyTorch_Lightning/data
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
