@@ -1,6 +1,13 @@
-# del MCs
+# del MC1
 del-Minichallenge-1/data
+del-Minichallenge-1/wandb
+del-Minichallenge-1/lightning_logs
+
+# del MC2
 del-Minichallenge-2/data
+del-Minichallenge-2/wandb
+
+
 
 # PyTorch
 PyTorch/pytorch_quickstart_tutorial/data
@@ -12,9 +19,9 @@ wandb/data
 wandb/wandb
 
 # PyTorch Lightning
-fhnw-del-Deep-Learning/PyTorch_Lightning/lightning_logs
-fhnw-del-Deep-Learning/PyTorch_Lightning/wandb
-fhnw-del-Deep-Learning/PyTorch_Lightning/data
+PyTorch_Lightning/lightning_logs
+PyTorch_Lightning/wandb
+PyTorch_Lightning/data
 
 
 # Byte-compiled / optimized / DLL files
