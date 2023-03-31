@@ -153,3 +153,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/cifar-10-batches-py/
+
+data/
+
+PyTorch/wandb-pytorch/
