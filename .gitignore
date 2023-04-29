@@ -6,6 +6,7 @@ del-Minichallenge-1/lightning_logs
 # del MC2
 del-Minichallenge-2/data
 del-Minichallenge-2/wandb
+del-Minichallenge-2/Flickr8K
 
 
 
